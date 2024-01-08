@@ -10,7 +10,10 @@ namespace StructsAndStuff
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Structs!");
+            Console.ReadKey();
+            Console.WriteLine("Variables Full of Variables!")
+            Console.ReadKey();
         }
     }
 }
