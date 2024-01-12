@@ -11,17 +11,17 @@ namespace StructsAndStuff
         static void Main(string[] args)
         {
             Console.WriteLine("Structs!");
-            Console.WriteLine("Variables Full of Variables!")
+            Console.WriteLine("Variables Full of Variables!");
             // Pre Structs - no structs, no classes
             int Hp = 100;
             int Xpos = 10;
             int Ypos = 10;
-            
+
             // Structs
 
             // Pre Classes
 
-            Console.WriteLine("Press any key to exit!")
+            Console.WriteLine("Press any key to exit!");
             Console.ReadKey(true);
         }
     }
