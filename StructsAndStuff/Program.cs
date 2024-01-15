@@ -18,11 +18,18 @@ namespace StructsAndStuff
             int Ypos = 10;
 
             // Structs
-
+            
             // Pre Classes
 
             Console.WriteLine("Press any key to exit!");
             Console.ReadKey(true);
+        }
+        struct Vector3
+        {
+            float x;
+            float y;
+            float z;
+            
         }
     }
 }
